@@ -11,7 +11,7 @@
 // result.hpp — A C++20 Result type
 //
 // Copyright (c) 2025 Mohammed Ifkirne
-// <mohammedifkirne569@gmail.com> - <https://github.com/MohaIfk/>
+// <mohammedifkirne569@gmail.com> - <https://github.com/ttheghost/>
 //
 // Distributed under the MIT License.
 // See the accompanying LICENSE file for details.
